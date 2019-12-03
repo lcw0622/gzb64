@@ -1,6 +1,6 @@
 {
   "name": "gz_b64",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "inde.js",
   "bin": {"gzb64": "./bin/gzb64.js"},
